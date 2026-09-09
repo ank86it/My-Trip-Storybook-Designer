@@ -1,0 +1,205 @@
+# FINAL OUTPUT — MANDATORY PDF FORMAT
+
+The final deliverable MUST be a PRINT-READY PDF for my DIY spiral-bound photo album.
+
+The PDF must contain:
+
+* One album page per PDF page.
+* Each PDF page must be exactly A4 Landscape.
+* Each album page must occupy the complete A4 landscape sheet.
+* Pages must NOT be combined into a contact sheet.
+* Pages must NOT be presented as a collage of multiple album pages.
+* Do NOT create one giant image showing the entire cartoon book.
+* Do NOT place 2, 4, 6, 8, or 12 album pages inside one PDF page.
+* Every storybook page must remain a separate physical printable page.
+
+## PAGE SIZE
+
+Paper:
+A4
+
+Orientation:
+Landscape
+
+Physical size:
+297 mm × 210 mm
+
+Preferred print resolution:
+300 DPI
+
+Equivalent raster size when required:
+3508 × 2480 pixels
+
+The final PDF should preserve the A4 landscape page dimensions.
+
+---
+
+# PDF PAGE STRUCTURE
+
+For example, if the album contains 16 pages:
+
+PDF Page 1 = Album Page 1
+PDF Page 2 = Album Page 2
+PDF Page 3 = Album Page 3
+PDF Page 4 = Album Page 4
+PDF Page 5 = Album Page 5
+PDF Page 6 = Album Page 6
+PDF Page 7 = Album Page 7
+PDF Page 8 = Album Page 8
+PDF Page 9 = Album Page 9
+PDF Page 10 = Album Page 10
+PDF Page 11 = Album Page 11
+PDF Page 12 = Album Page 12
+PDF Page 13 = Album Page 13
+PDF Page 14 = Album Page 14
+PDF Page 15 = Album Page 15
+PDF Page 16 = Album Page 16
+
+Each one is an independent A4 landscape sheet.
+
+---
+
+# DOUBLE-SIDED PRINTING
+
+The PDF must be ordered for normal duplex printing.
+
+The physical sequence should be:
+
+Front side of Sheet 1 → Page 1
+Back side of Sheet 1 → Page 2
+
+Front side of Sheet 2 → Page 3
+Back side of Sheet 2 → Page 4
+
+Front side of Sheet 3 → Page 5
+Back side of Sheet 3 → Page 6
+
+and so on.
+
+Do NOT create a special imposed printing layout unless I specifically request printer-imposition instructions.
+
+The PDF should simply contain the pages in normal sequential order.
+
+My printer will handle duplex printing.
+
+---
+
+# SPIRAL BINDING
+
+The album will be spiral bound after printing.
+
+Therefore:
+
+* Keep important text away from the binding edge.
+* Keep faces away from the binding edge.
+* Keep important parts of photographs away from the binding edge.
+* Maintain a comfortable inner safe margin.
+* Do not place page numbers directly against the binding.
+* Do not allow speech bubbles or captions to be cut off near the binding.
+
+For landscape pages, assume the LEFT EDGE is the binding edge unless I tell you otherwise.
+
+Maintain a larger safe margin on the left side.
+
+---
+
+# BLEED AND SAFE AREA
+
+If the design intentionally reaches the edge of the paper, extend the artwork appropriately to the page edge.
+
+However, all important content must remain inside the safe area.
+
+Important content includes:
+
+* faces
+* text
+* speech bubbles
+* captions
+* dates
+* page numbers
+* important objects
+* photographs
+* logos
+* location names
+
+Do not allow these elements to be clipped.
+
+---
+
+# COVER
+
+The cover must also be a separate A4 landscape PDF page.
+
+PDF Page 1:
+FRONT COVER
+
+It must NOT be combined with Page 2.
+
+The cover should be designed as a standalone physical page.
+
+---
+
+# BACK COVER
+
+The back cover must also be a separate A4 landscape PDF page.
+
+It must be the final PDF page.
+
+Do not combine the back cover with another page.
+
+---
+
+# FINAL PDF QUALITY CHECK
+
+Before producing the final PDF, verify:
+
+✓ Every album page is separate
+✓ Every PDF page is A4
+✓ Every page is Landscape
+✓ Correct page sequence
+✓ No multi-page collage/contact sheet
+✓ No page contains thumbnails of other pages
+✓ No accidental portrait pages
+✓ Text is readable at A4 print size
+✓ Images are high resolution
+✓ Spiral-binding safe margin is maintained
+✓ Front cover is separate
+✓ Back cover is separate
+✓ Double-sided sequence is sequential
+✓ No page is missing
+✓ No duplicate page
+✓ No accidental blank page
+
+---
+
+# FINAL RESPONSE
+
+When I request:
+
+"FINAL PDF"
+
+generate the complete print-ready PDF.
+
+Do not respond with only a preview image.
+
+Do not respond with a contact sheet.
+
+Do not provide only individual PNG/JPG previews unless I specifically request them.
+
+The primary deliverable must be the complete PDF.
+
+Also provide a brief page count, for example:
+
+"Final album: 18 A4 landscape pages, sequentially arranged for duplex printing and spiral binding."
+
+---
+
+# PREVIEW RULE
+
+During development, previews may be shown as thumbnails or a contact sheet for convenience.
+
+However, the contact sheet is ONLY a preview.
+
+It must NEVER be treated as the final printable album.
+
+The final PDF must always contain the individual pages separately.
